@@ -1,0 +1,50 @@
+#portfolio{
+background-color:  #d4d4f7;
+height: 100%;
+color: #08082b;
+text-align: center;
+}
+
+.dice{
+  display: block;
+   margin: auto;
+   width: 250px;
+   color: #23225e;
+   text-align: center;
+   font-family: 'Righteous', cursive;
+   color: #23225e;
+
+}
+.blueFire{
+  display: block;
+   margin: auto;
+   color: #23225e;
+   width: 250px;
+   font-size: 250%;
+   text-align: center;
+   font-family: "Woody";
+}
+
+.gratune{
+  display: block;
+   margin: auto;
+   color: #23225e;
+   width: 250px;
+   font-size: 250%;
+   text-align: center;
+}
+.pixel{
+  display: block;
+   margin: auto;
+   color: #23225e;
+   width: 250px;
+   font-size: 250%;
+   text-align: center;
+   font-family: "Subway Ticker";
+
+}
+
+.grid-example{
+  margin-top:50px;
+  margin-bottom:50px;
+}

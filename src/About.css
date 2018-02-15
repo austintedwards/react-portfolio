@@ -1,0 +1,29 @@
+#about{
+background-color:  #d4d4f7;
+height: 100vh;
+
+}
+.aboutTitle{
+  padding-top: 10vh;
+  text-align: center;
+  font-family: 'Futura', sans-serif;
+  color: #08082b;
+
+}
+.bio{
+  font-size: 115%;
+  font-family: 'Libre Baskerville', serif;
+  text-indent: 50px;
+  padding-right: 12%;
+  padding-left: 12%;
+  color: #08082b;
+
+}
+
+@media screen and (max-width: 600px) {
+  #about{
+  height: 100%;
+
+  }
+
+}
